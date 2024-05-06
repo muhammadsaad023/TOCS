@@ -1,0 +1,5 @@
+# Example File
+
+This is an example file that you can add to your repository to trigger an automatic build in Jenkins.
+
+Feel free to modify this file or add your own content!
